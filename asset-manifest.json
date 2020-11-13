@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/usamaster.github.io/memegenerator/static/js/main.5a21697a.chunk.js",
+    "main.js.map": "/usamaster.github.io/memegenerator/static/js/main.5a21697a.chunk.js.map",
+    "runtime-main.js": "/usamaster.github.io/memegenerator/static/js/runtime-main.3aa93980.js",
+    "runtime-main.js.map": "/usamaster.github.io/memegenerator/static/js/runtime-main.3aa93980.js.map",
+    "static/js/2.2179eeff.chunk.js": "/usamaster.github.io/memegenerator/static/js/2.2179eeff.chunk.js",
+    "static/js/2.2179eeff.chunk.js.map": "/usamaster.github.io/memegenerator/static/js/2.2179eeff.chunk.js.map",
+    "index.html": "/usamaster.github.io/memegenerator/index.html",
+    "static/js/2.2179eeff.chunk.js.LICENSE.txt": "/usamaster.github.io/memegenerator/static/js/2.2179eeff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3aa93980.js",
+    "static/js/2.2179eeff.chunk.js",
+    "static/js/main.5a21697a.chunk.js"
+  ]
+}
